@@ -1,3 +1,6 @@
-p{
+p.hello{
     color: rgb(64, 122, 46);
+}
+p{
+    color: rgb(38, 94, 139);
 }
