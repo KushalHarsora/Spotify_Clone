@@ -1,6 +1,35 @@
 p.hello{
     color: rgb(64, 122, 46);
+    padding: 20px;
+    margin: 20px;
+    border: 10px;
 }
 p{
     color: rgb(38, 94, 139);
+}
+.hello{
+    padding: 20px;
+    border: 10px;
+    margin: 20px;
+}
+#cool{
+    padding: 15px;
+    border-radius: 20px;
+    border-color: black;
+    background-color: aliceblue;
+}
+.heading{
+    background-color: rgb(177, 232, 232);
+    padding: 10px;
+    margin: 10px;
+    border: 5px;
+    border-radius: 25px;
+    color: rgb(159, 98, 216);
+}
+.start{
+    background-color: rgb(168, 234, 214);
+    padding: 20px;
+    margin: 5px;
+    border: 5px;
+    border-radius: 30px;
 }
