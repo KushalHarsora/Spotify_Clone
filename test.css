@@ -1,4 +1,6 @@
 .container{
     border-collapse: collapse;
     border-color: blueviolet;
+    background-color: rgb(216, 228, 239);
+    margin: 25px;
 }
